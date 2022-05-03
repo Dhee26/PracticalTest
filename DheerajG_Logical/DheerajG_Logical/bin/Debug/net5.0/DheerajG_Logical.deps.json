@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DheerajG_Logical/1.0.0": {
+        "runtime": {
+          "DheerajG_Logical.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DheerajG_Logical/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

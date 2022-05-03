@@ -1,0 +1,16 @@
+C:\Users\7313039\source\repos\DheerajG_Logical\DheerajG_Logical\bin\Debug\net5.0\DheerajG_Logical.exe
+C:\Users\7313039\source\repos\DheerajG_Logical\DheerajG_Logical\bin\Debug\net5.0\DheerajG_Logical.deps.json
+C:\Users\7313039\source\repos\DheerajG_Logical\DheerajG_Logical\bin\Debug\net5.0\DheerajG_Logical.runtimeconfig.json
+C:\Users\7313039\source\repos\DheerajG_Logical\DheerajG_Logical\bin\Debug\net5.0\DheerajG_Logical.runtimeconfig.dev.json
+C:\Users\7313039\source\repos\DheerajG_Logical\DheerajG_Logical\bin\Debug\net5.0\DheerajG_Logical.dll
+C:\Users\7313039\source\repos\DheerajG_Logical\DheerajG_Logical\bin\Debug\net5.0\ref\DheerajG_Logical.dll
+C:\Users\7313039\source\repos\DheerajG_Logical\DheerajG_Logical\bin\Debug\net5.0\DheerajG_Logical.pdb
+C:\Users\7313039\source\repos\DheerajG_Logical\DheerajG_Logical\obj\Debug\net5.0\DheerajG_Logical.csproj.AssemblyReference.cache
+C:\Users\7313039\source\repos\DheerajG_Logical\DheerajG_Logical\obj\Debug\net5.0\DheerajG_Logical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7313039\source\repos\DheerajG_Logical\DheerajG_Logical\obj\Debug\net5.0\DheerajG_Logical.AssemblyInfoInputs.cache
+C:\Users\7313039\source\repos\DheerajG_Logical\DheerajG_Logical\obj\Debug\net5.0\DheerajG_Logical.AssemblyInfo.cs
+C:\Users\7313039\source\repos\DheerajG_Logical\DheerajG_Logical\obj\Debug\net5.0\DheerajG_Logical.csproj.CoreCompileInputs.cache
+C:\Users\7313039\source\repos\DheerajG_Logical\DheerajG_Logical\obj\Debug\net5.0\DheerajG_Logical.dll
+C:\Users\7313039\source\repos\DheerajG_Logical\DheerajG_Logical\obj\Debug\net5.0\ref\DheerajG_Logical.dll
+C:\Users\7313039\source\repos\DheerajG_Logical\DheerajG_Logical\obj\Debug\net5.0\DheerajG_Logical.pdb
+C:\Users\7313039\source\repos\DheerajG_Logical\DheerajG_Logical\obj\Debug\net5.0\DheerajG_Logical.genruntimeconfig.cache
